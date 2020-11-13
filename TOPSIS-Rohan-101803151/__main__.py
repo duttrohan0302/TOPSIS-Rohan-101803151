@@ -1,4 +1,5 @@
-# Input Example - python topsis.py data.csv 0.5,0.5,0.5,0.5 +,-,-,+ result.csv
+# Input Example
+# python topsis.py data.csv 0.5,0.5,0.5,0.5 +,-,-,+ result.csv
 
 import pandas as pd
 import  numpy as np
