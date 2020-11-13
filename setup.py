@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url = 'https://github.com/duttrohan0302/TOPSIS-Rohan-101803151',   # Provide either the link to your github or to your website
-    download_url = 'https://github.com/duttrohan0302/TOPSIS-Rohan-101803151/archive/v_01.tar.gz',
+    download_url = 'https://github.com/duttrohan0302/TOPSIS-Rohan-101803151/archive/v_02.tar.gz',
     packages=setuptools.find_packages(),
     install_requires=[
           'numpy',
