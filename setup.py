@@ -6,9 +6,9 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="TOPSIS-Rohan-101803151",
-    version="1.0.1",
-    author="",
-    author_email="",
+    version="1.0.2",
+    author="Rohan Dutt",
+    author_email="duttrohan0302@gmail.com",
     description="A package that makes it easy to create Pypi packages",
     long_description=long_description,
     long_description_content_type="text/markdown",
